@@ -1,0 +1,38 @@
+symbol,isin,cusip,country,sector,founded,name_regexp,first_bought,sold_out,yahoo_symbol,yahoo_currency
+ADP,US0530151036,053015103,US,Technology,1949,Automatic Data Processing,,,
+AMS,ES0109067019,,ES,Technology,1987,Amadeus,,,AMS.MC,EUR
+BCR,US0673831097,067383109,US,Healthcare,1907,CR Bard,,2018-03-31,,
+BDX,US0758871091,075887109,US,Healthcare,1897,Becton Dickinson,,,
+CL,US1941621039,194162103,US,Consumer Staples,1806,Colgate,,,
+COLO,DK0060448595,,DK,Healthcare,1954,Coloplast,2018-01-01,,COLO-B.CO,DKK
+DGE,GB0002374006,,GB,Consumer Staples,1997,Diageo,,,DEO,USD
+DNKN,US2655041000,265504100,US,Consumer Discretionary,2004,Dunkin Brands,,2016-06-31,,
+DPS,US26138E1091,26138E109,US,Consumer Staples,2007,Dr Pepper Snapple,,2018-02-28,,
+DPZ,US25754A2015,25754A201,US,Consumer Discretionary,1960,Domino's Pizza,,,,
+EL,US5184391044,518439104,US,Consumer Staples,1946,Estee Lauder,,,,
+FB,US30303M1027,30303M102,US,Technology,2004,Facebook,2018-01-01,,,
+IDXX,US45168D1046,45168D104,US,Healthcare,1990,Idexx,,,
+IHG,GB00BD8QVH41,,GB,Consumer Discretionary,2003,Intercontinental Hotels,,,IHG,USD
+IMB,GB0004544929,,GB,Consumer Staples,1901,Imperial (Brands|Tobacco),,2017-11-30,IMB.L,GBX
+INTU,US4612021034,461202103,US,Technology,1983,Intuit,2017-04-01,,,
+ITRK,GB0031638363,,GB,Industrials,1996,Intertek,,,ITRK.L,GBX
+JNJ,US4781601046,478160104,US,Healthcare,1886,Johnson & Johnson,,,
+KNEBV,FI0009013403,,FI,Industrials,1910,Kone,,,KNEBV.HE,EUR
+MAR,US5719032022,571903202,US,Consumer Discretionary,1927,Mariott,2016-04-01,,,
+MMM,US88579Y1010,88579Y101,US,Industrials,1902,3M,,,,
+MSFT,US5949181045,594918104,US,Technology,1975,Microsoft,,,
+NESN,CH0038863350,,CH,Consumer Staples,1866,Nestle,,2018-06-30,NESN.VX,CHF
+NVO,DK0060534915,,DK,Healthcare,1923,Novo Nordisk,,,NVO,USD
+OR,FR0000120321,,FR,Consumer Staples,1909,L'Oreal,,,OR.PA,EUR
+ORCL,US68389X1054,68389X105,US,Technology,1977,Oracle,2016-04-01,2016-12-31,,
+PEP,US7134481081,713448108,US,Consumer Staples,1898,Pepsico,,,,
+PG,US7427181091,742718109,US,Technology,1837,Procter & Gamble,,2016-03-31,,
+PM,US7181721090,718172109,US,Consumer Staples,1987,Philip Morris,,,,
+PYPL,US70450Y1038,70450Y103,US,Technology,1998,Paypal,,,,
+RB,GB00B24CGK77,,GB,Consumer Staples,1814,Reckitt Benckiser,,,RB.L,GBX
+SGE,GB00B8C3BL03,,GB,Technology,1981,Sage,,,SGE.L,GBX
+SJM,US8326964058,832696405,US,Consumer Staples,1897,JM Smucker,,2017-09-30,,
+SYK,US8636671013,863667101,US,Healthcare,1941,Stryker,,,,
+ULVR,GB00B10RZP78,,GB,Consumer Staples,1929,Unilever,,,UL,USD
+V,US92826C8394,92826C839,US,Technology,1958,Visa,,,,
+WAT,US9418481035,941848103,US,Healthcare,1958,Waters,,,,
